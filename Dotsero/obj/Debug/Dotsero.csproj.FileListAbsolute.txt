@@ -5,3 +5,12 @@ D:\home\projects\Akka.NET\Dotsero\Dotsero\Dotsero\bin\Debug\Retlang.dll
 D:\home\projects\Akka.NET\Dotsero\Dotsero\Dotsero\obj\Debug\Dotsero.dll
 D:\home\projects\Akka.NET\Dotsero\Dotsero\Dotsero\obj\Debug\Dotsero.pdb
 D:\home\projects\Akka.NET\Dotsero\Dotsero\Dotsero\obj\Debug\Dotsero.csprojResolveAssemblyReference.cache
+C:\Source\backup\Dotsero\Dotsero\bin\Debug\Dotsero.dll.config
+C:\Source\backup\Dotsero\Dotsero\bin\Debug\Dotsero.dll
+C:\Source\backup\Dotsero\Dotsero\bin\Debug\Dotsero.pdb
+C:\Source\backup\Dotsero\Dotsero\bin\Debug\Retlang.dll
+C:\Source\backup\Dotsero\Dotsero\obj\Debug\Dotsero.csprojAssemblyReference.cache
+C:\Source\backup\Dotsero\Dotsero\obj\Debug\Dotsero.csproj.CoreCompileInputs.cache
+C:\Source\backup\Dotsero\Dotsero\obj\Debug\Dotsero.csproj.CopyComplete
+C:\Source\backup\Dotsero\Dotsero\obj\Debug\Dotsero.dll
+C:\Source\backup\Dotsero\Dotsero\obj\Debug\Dotsero.pdb

@@ -6,3 +6,16 @@ D:\home\projects\Akka.NET\Dotsero\Dotsero\DotseroTest\bin\Debug\Dotsero.pdb
 D:\home\projects\Akka.NET\Dotsero\Dotsero\DotseroTest\obj\Debug\DotseroTest.csprojResolveAssemblyReference.cache
 D:\home\projects\Akka.NET\Dotsero\Dotsero\DotseroTest\obj\Debug\DotseroTest.dll
 D:\home\projects\Akka.NET\Dotsero\Dotsero\DotseroTest\obj\Debug\DotseroTest.pdb
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\DotseroTest.dll
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\DotseroTest.pdb
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\Dotsero.dll
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\Retlang.dll
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\Dotsero.pdb
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\Dotsero.dll.config
+C:\Source\backup\Dotsero\DotseroTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Source\backup\Dotsero\DotseroTest\obj\Debug\DotseroTest.csprojAssemblyReference.cache
+C:\Source\backup\Dotsero\DotseroTest\obj\Debug\DotseroTest.csproj.CoreCompileInputs.cache
+C:\Source\backup\Dotsero\DotseroTest\obj\Debug\DotseroTest.csproj.CopyComplete
+C:\Source\backup\Dotsero\DotseroTest\obj\Debug\DotseroTest.dll
+C:\Source\backup\Dotsero\DotseroTest\obj\Debug\DotseroTest.pdb
